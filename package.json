@@ -1,0 +1,21 @@
+{
+  "name": "qr-pdf-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node run.ts"
+  },
+  "dependencies": {
+    "pdfkit": "^0.15.0",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.33.5",
+    "p-limit": "^3.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.3.1",
+    "@types/pdfkit": "^0.13.4",
+    "@types/qrcode": "^1.5.5"
+  }
+}
