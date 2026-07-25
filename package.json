@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "ts-node run.ts"
+    "start": "ts-node src/run.ts"
   },
   "dependencies": {
     "pdfkit": "^0.15.0",
